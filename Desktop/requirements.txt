@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+gspread
+oauth2client
+httpx
+openai>=1.13.3
