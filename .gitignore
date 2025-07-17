@@ -3,3 +3,6 @@ echo "build/" >> .gitignore
 echo "out/" >> .gitignore
 echo ".idea/" >> .gitignore
 echo "*.iml" >> .gitignore
+.env
+service_account.json
+__pycache__/
